@@ -1,0 +1,5 @@
+idx,pid,name,value
+1,S310-001,primary,9.65
+2,S310-001,secondary,7.51
+3,S310-001,derived,-2.63
+4,S310-001,confidence,91.05
