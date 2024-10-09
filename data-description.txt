@@ -1,0 +1,5 @@
+The data items are:
+- idx: sequential number
+- pid: patient id
+- name: variable name
+- value: variable value
