@@ -19,3 +19,7 @@ idx,pid,name,value
 18,S310-005,secondary,8.50
 19,S310-005,derived,0.83
 20,S310-005,confidence,90.01
+21,S310-006,primary,7.77
+22,S310-006,secondary,8.50
+23,S310-006,derived,0.83
+24,S310-006,confidence,90.01
